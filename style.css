@@ -1,0 +1,15 @@
+body {
+  background-color: #f8f9fa;
+}
+.tag {
+  display: inline-block;
+  margin: 2px;
+  padding: 5px 10px;
+  border-radius: 20px;
+  background-color: #d1e7dd;
+  color: #0f5132;
+  font-size: 0.85rem;
+}
+.news-card {
+  margin-bottom: 1rem;
+}
